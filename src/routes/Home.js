@@ -11,7 +11,7 @@ const Home = () =>
             <HeroImg/>
             <Footer/>
         </div>
-    )
-}
+    );
+};
 
 export default Home
